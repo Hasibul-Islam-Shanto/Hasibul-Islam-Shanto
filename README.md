@@ -1,16 +1,19 @@
-<!-- Banner (Optional: Replace with your custom banner image) -->
-<!-- <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" />
-</p> -->
+
+<img width="1528" height="769" alt="github-cover" src="https://github.com/user-attachments/assets/3e7c0f50-5c35-4dd9-ae0b-4969692210e1" />
 
 <h1 align="center">Hi 👋, I'm Md Hasibul Islam Shanto</h1>
+
 <h3 align="center">Full-Stack Software Engineer | System Design Learner</h3>
 
 <p align="center">
-  <a href="mailto:mdhasibulislamshanto007@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Hasibul-Islam-Shanto">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/md-hasibul-islam-shanto-80487a217/">🔗 LinkedIn</a> •
-  <a href="https://www.hi-shanto.me">🌐 Portfolio</a>
+  <a href="mailto:mdhasibulislamshanto007@gmail.com"><img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/fa5e5f33-f172-4f3c-808c-e39042366302" />
+ Email</a> •
+  <a href="https://github.com/Hasibul-Islam-Shanto"><img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/fd886fae-d6bf-4ebc-9704-76cb77de86a8" />
+ GitHub</a> •
+  <a href="https://www.linkedin.com/in/md-hasibul-islam-shanto-80487a217/"><img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/b300d24b-0498-4dc9-a348-f868684a7d38" />
+ LinkedIn</a> •
+  <a href="https://www.hi-shanto.me"><img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/2da46072-8f58-4e41-8711-4ddb4c3e3dbd" />
+ Portfolio</a>
 </p>
 
 ---
@@ -122,7 +125,6 @@ Jan 2019 – Feb 2024
 
 # 📊 GitHub Stats (Optional but Recommended)
 
-```markdown
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasibul-Islam-Shanto&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Hasibul-Islam-Shanto&theme=radical" />

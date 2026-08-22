@@ -1,5 +1,6 @@
 
-<img width="1528" height="769" alt="github-cover" src="https://github.com/user-attachments/assets/3e7c0f50-5c35-4dd9-ae0b-4969692210e1" />
+<img width="1983" height="793" alt="github_cover" src="https://github.com/user-attachments/assets/1fb88abe-6cb8-473c-88d8-8a9f4256a37c" />
+
 
 <h1 align="center">Hi 👋, I'm Md Hasibul Islam Shanto</h1>
 
